@@ -1,0 +1,13 @@
+email_text,label,category,cleaned_text
+"Dear student, your university examination schedule is now available on the student portal.",0,legitimate,dear student your university examination schedule is now available on the student portal
+Your monthly bank statement is ready. Please visit the official banking application to view it.,0,legitimate,your monthly bank statement is ready please visit the official banking application to view it
+Thank you for applying. Your job interview is scheduled for Monday at 10 AM.,0,legitimate,thank you for applying your job interview is scheduled for monday at 10 am
+Your order has been shipped. You can check the delivery status through our official website.,0,legitimate,your order has been shipped you can check the delivery status through our official website
+"Dear employee, the office meeting will take place tomorrow at 11 AM.",0,legitimate,dear employee the office meeting will take place tomorrow at 11 am
+Your password was successfully updated. Contact IT support if you did not make this change.,0,legitimate,your password was successfully updated contact it support if you did not make this change
+URGENT! Your account will be permanently blocked. Click this suspicious link immediately to restore access.,1,phishing,urgent your account will be permanently blocked click this suspicious link immediately to restore access
+Congratulations! You have won a free prize. Submit your password and personal details to claim it.,1,phishing,congratulations you have won a free prize submit your password and personal details to claim it
+Your bank account is suspended. Verify your login credentials immediately to avoid losing access.,1,phishing,your bank account is suspended verify your login credentials immediately to avoid losing access
+Final warning! Your email account will be deleted today unless you confirm your password.,1,phishing,final warning your email account will be deleted today unless you confirm your password
+You have received an unexpected payment. Open the attached file and enter your banking information.,1,phishing,you have received an unexpected payment open the attached file and enter your banking information
+Your account has unusual activity. Provide your password and security code immediately.,1,phishing,your account has unusual activity provide your password and security code immediately

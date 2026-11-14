@@ -1,0 +1,14 @@
+
+email_text,label,category
+"Dear student, your university examination schedule is now available on the student portal.",0,legitimate
+"Your monthly bank statement is ready. Please visit the official banking application to view it.",0,legitimate
+"Thank you for applying. Your job interview is scheduled for Monday at 10 AM.",0,legitimate
+"Your order has been shipped. You can check the delivery status through our official website.",0,legitimate
+"Dear employee, the office meeting will take place tomorrow at 11 AM.",0,legitimate
+"Your password was successfully updated. Contact IT support if you did not make this change.",0,legitimate
+"URGENT! Your account will be permanently blocked. Click this suspicious link immediately to restore access.",1,phishing
+"Congratulations! You have won a free prize. Submit your password and personal details to claim it.",1,phishing
+"Your bank account is suspended. Verify your login credentials immediately to avoid losing access.",1,phishing
+"Final warning! Your email account will be deleted today unless you confirm your password.",1,phishing
+"You have received an unexpected payment. Open the attached file and enter your banking information.",1,phishing
+"Your account has unusual activity. Provide your password and security code immediately.",1,phishing

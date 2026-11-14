@@ -1,0 +1,12 @@
+Libraries:
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
+fastapi
+uvicorn
+streamlit
+shap
+joblib
